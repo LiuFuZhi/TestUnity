@@ -2,7 +2,8 @@
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
-
+//llike
+//statement
 class MyString{
 public:
     //1、默认构造函数
