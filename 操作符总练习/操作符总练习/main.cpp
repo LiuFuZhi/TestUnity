@@ -4,6 +4,7 @@
 using namespace std;
 //llike
 //statement
+//new project
 class MyString{
 public:
     //1、默认构造函数
